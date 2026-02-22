@@ -1,3 +1,14 @@
 [
-
+  {
+    "address": "0xfB69e2d3d673A8DB9Fa74ffc036A8Cf641255769",
+    "symbol": "BBFT",
+    "name": "Baby BFT",
+    "decimals": 18,
+    "verified": true,
+    "tags": [
+      "meme"
+    ],
+    "logoURI": "https://tokens.1inch.io/0xfb69e2d3d673a8db9fa74ffc036a8cf641255769.png",
+    "addedAt": "2026-02-22T09:31:32Z"
+  }
 ]
